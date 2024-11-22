@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>SALES</deptName>
+            <location>CHICAGO</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Elina</empName>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>Anastasia</empName>
+                    <managerNo>E04</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D03</deptNo>
+            <deptName>IT</deptName>
+            <location>SAN FRANCISCO</location>
+            <employees>
+                <employee>
+                    <empNo>E07</empNo>
+                    <empName>Polina</empName>
+                </employee>
+                <employee>
+                    <empNo>E08</empNo>
+                    <empName>Nadya</empName>
+                    <managerNo>E09</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E09</empNo>
+                    <empName>Karolina</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organization>
